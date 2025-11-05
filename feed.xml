@@ -3,10 +3,30 @@
     <title>jinzhepro</title>
     <link href="https://blog.jinzhepro.cc/blogs/feed.xml" rel="self" />
     <link href="https://blog.jinzhepro.cc/blogs" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-11-05T16:09:55+08:00</updated>
     <author>
         <name>张晋哲</name>
     </author>
     <id>https://blog.jinzhepro.cc/blogs</id>
 
+    <entry>
+        <title>123</title>
+        <author>
+            <name>张晋哲</name>
+        </author>
+        <link href="https://blog.jinzhepro.cc/blogs/123.html"/>
+        <id>https://blog.jinzhepro.cc/blogs/123.html</id>
+
+        <updated>2025-11-05T16:09:55+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    123
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>123</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
